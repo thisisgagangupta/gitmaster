@@ -1,4 +1,4 @@
 # gitmaster
 Matering the Git & Github
 
-Author - Gagan Gupta
+Author - Gagan Gupta(thisisgagangupta)
