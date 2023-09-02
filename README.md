@@ -1,2 +1,4 @@
 # gitmaster
-Matering the Git &amp; Github
+Matering the Git & Github
+
+Author - Gagan Gupta
